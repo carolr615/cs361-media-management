@@ -1,2 +1,2 @@
-# cs361-media-management
-media management repo
+# Media management microservice
+This microservice allows users to upload and retrieve text, text files, as well as images. 
