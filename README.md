@@ -60,6 +60,7 @@ for image_name, image_hex in response["image_data"].items():
 This code also prints where the path where the image has been saved locally. 
 
 ## UML Diagram
+![umldiagram](https://github.com/user-attachments/assets/29a7de93-81b2-4667-8820-280e39b6feae)
 
 ## Running the Microservice
 This microservice requires ZeroMQ to be installed in order to run: 
